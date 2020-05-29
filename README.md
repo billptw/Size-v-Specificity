@@ -30,6 +30,6 @@ python BERT.py --batch_size 32 --lr 2e-5 --epochs 4
 
 ## Credits
 
-We thank HuggingFace/Transformers for BERT implementation, anfd Stanford NLP for the GloVe pre-trained embeddings.
+We thank the HuggingFace team for [BERT](https://github.com/huggingface/transformers) implementation, and Stanford NLP for the [GloVe](https://nlp.stanford.edu/projects/glove/) pre-trained embeddings.
 
-This project was part of the CE7455: Deep Learning for Natural Language Processing final project, done in collaboration with Clement Tan @txrc. We thank Prof Shafiq Joty and team for their valuable advice.
+This project was part of the [CE7455](https://ntunlpsg.github.io/ce7455_deep-nlp-20/): Deep Learning for Natural Language Processing final project, done in collaboration with [Clement Tan](https://github.com/txrc). We thank Prof [Shafiq Joty](https://raihanjoty.github.io/) and [team](https://ntunlpsg.github.io/) for their valuable advice.
